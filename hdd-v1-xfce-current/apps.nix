@@ -56,6 +56,7 @@
     brave
     #kdePackages.plasma-systemmonitor
     telegram-desktop
+    session-desktop
     vscode
     nodejs
     #luanti
