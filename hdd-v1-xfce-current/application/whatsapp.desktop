@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=WhatsApp Web v1
+Comment=WhatsApp Web (Lightweight Brave App)
+Exec=brave --app="https://web.whatsapp.com" --user-data-dir="/home/guest/.config/whatsapp/whatsapp-web-v1" --no-first-run --no-default-browser-check --disable-features=Translate,GlobalMediaControls --process-per-site
+Terminal=false
+Type=Application
+Icon=whatsapp
+Categories=Network;InstantMessaging;
+StartupWMClass=crx__whatsapp
+Path=
+StartupNotify=false
